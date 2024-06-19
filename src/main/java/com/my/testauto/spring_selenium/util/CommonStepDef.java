@@ -1,7 +1,6 @@
 package com.my.testauto.spring_selenium.util;
 
 import io.cucumber.java.en.Given;
-import io.cucumber.java.en.Then;
 
 public class CommonStepDef {
 

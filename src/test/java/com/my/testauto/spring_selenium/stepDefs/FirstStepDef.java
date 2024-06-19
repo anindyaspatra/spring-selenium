@@ -1,7 +1,6 @@
 package com.my.testauto.spring_selenium.stepDefs;
 
 import io.cucumber.java.en.Then;
-import io.cucumber.java.en.Given;
 import org.junit.Assert;
 
 public class FirstStepDef {
